@@ -1,4 +1,5 @@
 {
+	"sucmd": "sudo",
 	"clipboard": "external",
 	"colorscheme": "simple",
 	"ruler": true,
@@ -6,6 +7,7 @@
     	"mkparents": true,
     	"saveundo": true,
     	"savecursor": true,
+    	"fakecursor": true,
     	"diffgutter": true,
     	"parsecursor": true,
     	"rmtrailingws": true,
