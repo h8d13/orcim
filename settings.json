@@ -1,16 +1,16 @@
 {
 	"clipboard": "external",
-    "colorscheme": "simple",
-    "ruler": true,
-    "tabsize": 8,
-    "mkparents": true,
-    "saveundo": true,
-    "savecursor": true,
-    "diffgutter": true,
-    "parsecursor": true,
-    "rmtrailingws": true,
-    "ft:yaml": {
-        "tabsize": 2,
-        "tabstospaces": true
+	"colorscheme": "simple",
+	"ruler": true,
+	"tabsize": 8,
+    	"mkparents": true,
+    	"saveundo": true,
+    	"savecursor": true,
+    	"diffgutter": true,
+    	"parsecursor": true,
+    	"rmtrailingws": true,
+    	"ft:yaml": {
+        	"tabsize": 2,
+        	"tabstospaces": true
     }
 }
