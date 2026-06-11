@@ -8,7 +8,6 @@
     "savecursor": true,
     "diffgutter": true,
     "parsecursor": true,
-    "hltrailingws": true,
     "rmtrailingws": true,
     "ft:yaml": {
         "tabsize": 2,
