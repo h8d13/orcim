@@ -10,7 +10,7 @@
     	"parsecursor": true,
     	"rmtrailingws": true,
     	"ft:yaml": {
-        	"tabsize": 2,
+       		"tabsize": 2,
         	"tabstospaces": true
     }
 }
