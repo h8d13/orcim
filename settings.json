@@ -9,6 +9,7 @@
     	"diffgutter": true,
     	"parsecursor": true,
     	"rmtrailingws": true,
+    	"eofnewline": true,
     	"ft:yaml": {
        		"tabsize": 2,
         	"tabstospaces": true
