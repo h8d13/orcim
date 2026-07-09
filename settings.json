@@ -6,16 +6,16 @@
 	"hlchunk": true,
 	"hlchunkmode": "indent",
 	"tabsize": 8,
-    	"mkparents": true,
-    	"saveundo": true,
-    	"savecursor": true,
-    	"fakecursor": true,
-    	"diffgutter": true,
-    	"parsecursor": true,
-    	"rmtrailingws": true,
-    	"eofnewline": true,
-    	"ft:yaml": {
-       		"tabsize": 2,
-        	"tabstospaces": true
+   	"mkparents": true,
+   	"saveundo": true,
+   	"savecursor": true,
+   	"fakecursor": true,
+   	"diffgutter": true,
+   	"parsecursor": true,
+   	"rmtrailingws": true,
+   	"eofnewline": true,
+   	"ft:yaml": {
+      		"tabsize": 2,
+       	"tabstospaces": true
     }
 }
