@@ -1,21 +1,16 @@
 {
-	"sucmd": "sudo",
-	"clipboard": "external",
-	"colorscheme": "simple",
-	"ruler": true,
-	"hlchunk": true,
-	"hlchunkmode": "indent",
-	"tabsize": 8,
-   	"mkparents": true,
-   	"saveundo": true,
-   	"savecursor": true,
-   	"fakecursor": true,
-   	"diffgutter": true,
-   	"parsecursor": true,
-   	"rmtrailingws": true,
-   	"eofnewline": true,
-   	"ft:yaml": {
-      		"tabsize": 2,
-      		"tabstospaces": true
-    }
+    "colorscheme": "atom-dark",
+    "diffgutter": true,
+    "fakecursor": true,
+    "ft:yaml": {
+        "tabsize": 2,
+        "tabstospaces": true
+    },
+    "hlchunk": true,
+    "mkparents": true,
+    "parsecursor": true,
+    "rmtrailingws": true,
+    "savecursor": true,
+    "saveundo": true,
+    "tabsize": 8
 }

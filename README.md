@@ -11,3 +11,5 @@ echo 'EDITOR=micro' | sudo tee /etc/environment
 ```
 
 Dep: `glow` and `lua`
+
+For `hlchunk` modes needs https://github.com/h8d13/micro built.
