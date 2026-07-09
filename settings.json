@@ -3,6 +3,8 @@
 	"clipboard": "external",
 	"colorscheme": "simple",
 	"ruler": true,
+	"hlchunk": true,
+	"hlchunkmode": "indent",
 	"tabsize": 8,
     	"mkparents": true,
     	"saveundo": true,
