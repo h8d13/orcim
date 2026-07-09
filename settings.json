@@ -16,6 +16,6 @@
    	"eofnewline": true,
    	"ft:yaml": {
       		"tabsize": 2,
-      	"tabstospaces": true
+      		"tabstospaces": true
     }
 }
